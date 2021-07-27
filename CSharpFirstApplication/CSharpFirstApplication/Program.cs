@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CSharpFirstApplication
 {
@@ -19,6 +19,9 @@ namespace CSharpFirstApplication
 
             Console.WriteLine("You want to purchase a $" + homePrice + " home, with a down payment of $" + downPayment + " and an annual percentage rate of " + interestRate + "%.  Is that correct?  (Y/N)");
             Console.ReadLine();
+
+            /// todo: add some logic
+            /// for tracing
         }
     }
 }
