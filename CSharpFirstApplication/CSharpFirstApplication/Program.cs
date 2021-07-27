@@ -1,7 +1,8 @@
-using System;
+﻿using System;
 
 namespace CSharpFirstApplication
 {
+    /// <summary>Main class</summary>
     class Program
     {
         static void Main(string[] args)
